@@ -14,5 +14,3 @@ The script needs a blender scene to render. This scene is expected to be located
 > "Scenes//TestScene1.blend"
 
 If you want to render a different scene, the path can also be specified via the first command line argument.
-
-Right now the scene will be simply rendered from the perspective of the first existing camera in this scene. This will be changed in the future!
